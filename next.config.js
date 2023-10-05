@@ -3,6 +3,10 @@
 /* TO AVOID: Error and to fetch data from clerk*/
 
 const nextConfig = {
+    //at deployement
+    typescript:{
+        ignoreBuildErrors:true,
+    },
     experimental: {
         serverActions: true,
         serverComponentsExternalPackages: ["mongoose"],

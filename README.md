@@ -44,24 +44,24 @@ You can Comment on existing thread <br>
 ![WhatsApp Image 2023-10-06 at 8 58 24 PM (1)](https://github.com/Naveen3251/devmedia/assets/114800360/a2bc9cf6-0453-487a-b23d-94a2efe5e419)
 
 ### 2. Search Page
-Finds the users
+Finds the users<br>
 ![WhatsApp Image 2023-10-06 at 8 58 23 PM](https://github.com/Naveen3251/devmedia/assets/114800360/4f7df9ab-e832-4578-8676-501c7eac39a6)
 
 ### 3. Activity page
-Displays Notifications when someone comments on your posts
+Displays Notifications when someone comments on your posts<br>
 ![WhatsApp Image 2023-10-06 at 8 58 23 PM (1)](https://github.com/Naveen3251/devmedia/assets/114800360/f5852a04-d710-469a-9352-c3fccec47f61)
 
 ### 4. Creating Post page
-Create your own better thaughts and post in the dev media
+Create your own better thaughts and post in the dev media<br>
 ![WhatsApp Image 2023-10-06 at 8 58 23 PM (4)](https://github.com/Naveen3251/devmedia/assets/114800360/71711dbc-7899-445c-9c7a-ef061468d2b9)
 
 ### 6.Community Page
-Create new Communities and invite others to your created through email either as admin or member
-This page also displays available communities
+Create new Communities and invite others to your created through email either as admin or member<br>
+This page also displays available communities<br>
 ![WhatsApp Image 2023-10-06 at 8 58 22 PM (1)](https://github.com/Naveen3251/devmedia/assets/114800360/5f159a55-3f5d-4d22-abb2-21024f7aafa7)
 
 ### 7.Profile Page
-Showcase their information and as well as modify their details when they need
+Showcase their information and as well as modify their details when they need<br>
 ![WhatsApp Image 2023-10-06 at 8 58 22 PM (2)](https://github.com/Naveen3251/devmedia/assets/114800360/9b461cd6-5880-42b1-9c36-4fb4c5a5d858)
 
 

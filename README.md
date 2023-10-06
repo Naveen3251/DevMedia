@@ -68,7 +68,7 @@ This page also displays available communities<br>
 ### 7.Profile Page
 Showcase their information and as well as modify their details when they need<br>
 
-###### ![WhatsApp Image 2023-10-06 at 8 58 22 PM (2)](https://github.com/Naveen3251/devmedia/assets/114800360/9b461cd6-5880-42b1-9c36-4fb4c5a5d858)
+![WhatsApp Image 2023-10-06 at 8 58 22 PM (2)](https://github.com/Naveen3251/devmedia/assets/114800360/9b461cd6-5880-42b1-9c36-4fb4c5a5d858)
 
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.

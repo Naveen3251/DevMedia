@@ -23,6 +23,9 @@ import {zodResolver} from "@hookform/resolvers/zod";
 //to get path
 import {usePathname, useRouter} from 'next/navigation';
 
+//clerks organization
+import { useOrganization } from "@clerk/nextjs";
+
 //for validating thread and comments
 import { ThreadValidation } from "@/lib/validations/thread";
 import { createThread } from "@/lib/actions/thread.actions";
@@ -42,11 +45,14 @@ interface Props{
 };
 
 function PostThread({userId}:{userId:string}){
-  
-    
+
     //for navigation
     const router=useRouter();
     const pathname=usePathname();
+
+    //to handle organization
+    const {organization}=useOrganization();
+
     //forms
     const form=useForm({
         resolver:zodResolver(ThreadValidation),
@@ -58,14 +64,15 @@ function PostThread({userId}:{userId:string}){
 
 //submit handler
 const onSubmit=async(values:z.infer<typeof ThreadValidation>)=>{
+
     await createThread({
         text : values.thread,
         author:userId,
-        communityId:null,
+        communityId:organization?organization.id:null,
         path:pathname
 
     });
-
+ 
     //move to home once submited
     router.push('/');
 

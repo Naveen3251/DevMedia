@@ -24,7 +24,7 @@ Used for Complete Authentication and Profile Management
 #### 3.MongoDB
 Handles complex schemas and data Population that goes multiple level deep
 #### 4.TailWindCss and Shadcn Components
-For beat=utiful layouts
+For beautiful layouts
 #### 5.Uploadthing
 To handle file uploads
 #### 6.Webhook
